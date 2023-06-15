@@ -1,5 +1,5 @@
 # BST-in-c
-C VS code
+C - VS code
 
 Oct 2022
 
