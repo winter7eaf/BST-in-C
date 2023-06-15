@@ -7,6 +7,7 @@ Oct 2022
 - bst.h : declares the interface of that tree
 ---
 Helpful commands:
-valgrind --leak-check=full ./a.out
-gcc bst.c test_bst.c -o bst
-./bst
+
+1. valgrind --leak-check=full ./a.out
+2. gcc bst.c test_bst.c -o bst
+3. ./bst
